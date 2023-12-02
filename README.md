@@ -5,3 +5,4 @@ Contains an effect to make keyboard color coded with vim bindings.
 - Red = edit
 - Green = movement
 - Purple = special
+- Yellow = other
